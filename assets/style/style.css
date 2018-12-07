@@ -1,0 +1,32 @@
+.google-font{
+  font-family: 'Dosis', sans-serif;
+  color:#F8F8F8;
+  text-shadow: 2px 2px 15px #080808;
+}
+
+.google-font-dark{
+  font-family: 'Dosis', sans-serif;
+  color:#1a1a1a;
+  text-shadow: 2px 2px 15px #080808;
+}
+
+
+
+#back-img {
+    background-image: url("http://gdurl.com/1nQy");
+}
+
+
+.paralaxx {
+    background: url("http://gdurl.com/9c1F") no-repeat center; 
+    background-size: cover;
+    background-attachment: fixed;
+    height:1000px;
+}
+
+
+.opak{
+    background:rgba(54, 25, 25, .5)
+  
+}
+
