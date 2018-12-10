@@ -30,3 +30,17 @@
   
 }
 
+.top-header {
+
+}
+
+.first-box {
+
+}
+
+@media only screen and (max-width: 575px) {
+  .first-box {
+  margin-top: 70px;
+  }
+}
+
